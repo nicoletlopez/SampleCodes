@@ -1,0 +1,9 @@
+private void Dclick(object sender, TreeNodeMouseClickEventArgs e)
+        {
+            //TreeNode nodethr = treeView1.SelectedNode;
+            if (e.Node.Name=="Node14"){
+                Graphs graphs = new Graphs();
+                graphs.Show();
+            }
+
+        }
