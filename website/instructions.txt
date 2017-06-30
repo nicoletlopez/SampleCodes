@@ -1,0 +1,36 @@
+	several types of hosting apnels
+most popular 
+-cpanel
+
+group project
+ysername: root
+DB
+araltro2_website
+User
+araltro2_webuser
+
+
+
+all privileges for full access
+
+
+
+vt8sn_ same as local
+
+copy only from administrator to tmp
+don't copy config
+copy replace
+
+araltron_local_06302017
+
+needa export db QUICK
+
+.sql
+comment out "create database"
+
+in website, drop all tables to import new
+uncheck FK check
+
+now import .sql
+
+to delete the folders in server, should zip to back up then delete
